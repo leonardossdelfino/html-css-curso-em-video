@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* Medidas absolutas
+    cm, mm, in, px, pt, pc
+    
+    Medidas relativas
+    em, ex, rem, vw, vh, %
+
+    16px é igual GERALMENTE a 1em -- 2em é 32px, o dobro
+
+    EM é o tamanho relativo ao tamanho natural da fonte
+
+    */
+    font-size: 1em;
+}
